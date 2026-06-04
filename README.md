@@ -7,7 +7,7 @@ This project reads a dataset of university course listings from a text file and 
 
 The program allows a user to look up a course by its course code, such as INST126, and return the course title and prerequisites. It also includes a function that finds all courses with no prerequisites by checking each course in the dictionary.
 
-The project also saves the organized course catalog as a JSON file
+The project also saves the organized course catalog as a JSON file.
 
 <div>
     <h1>Files 🗂</h1>
