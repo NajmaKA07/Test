@@ -13,6 +13,6 @@ The project also saves the organized course catalog as a JSON file
     <h1>Files 🗂</h1>
 </div>
 
-- course_catalog.py — The main Python program.
-- INST-courses-all.txt — The original course catalog dataset.
-- course_index.json — The saved course index in JSON format.
+- [course_catalog.py](course_catalog.py) — The main Python program.
+- [INST-courses-all.txt](INST-courses-all.txt) — The original course catalog dataset.
+- [course_index.json](course_index.json) — The saved course index in JSON format.
